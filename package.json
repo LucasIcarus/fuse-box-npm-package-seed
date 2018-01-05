@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/fuse-box/fuse-box-npm-package-seed#readme",
   "devDependencies": {
-    "fuse-box": "^3.0.0-next.11",
+    "fuse-box": "^3.0.2",
     "typescript": "^2.3.0",
     "uglify-es": "^3.1.9",
     "uglify-js": "^3.1.9"
